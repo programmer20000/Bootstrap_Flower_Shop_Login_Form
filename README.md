@@ -2,7 +2,7 @@
 
 Cloning project
 ```git
-git clone "https://github.com/programmer20000/Bootstrap_Flower_Shop_Login_Form.git"
+git clone "https://github.com/mihaiapostol14/Bootstrap-Flower-Shop-Login-Form.git"
 ```
 
 * link on [official website](https://getbootstrap.com/)
